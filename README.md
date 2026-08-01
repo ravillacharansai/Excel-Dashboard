@@ -146,6 +146,6 @@ Open the **Dashboard** worksheet inside the Excel file to explore the interactiv
 
 ## 👤 Author
 
-**Chitra Chandra Vardhan**
+**Ravilla Charansai**
 
 HR Analytics Dashboard using Microsoft Excel.
